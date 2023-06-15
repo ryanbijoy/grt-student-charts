@@ -1,0 +1,472 @@
+[
+ {
+   "Student Name": "Mary",
+   "Maths": 61,
+   "Science": 79,
+   "English": 100,
+   "SST": 57,
+   "Hindi": 68,
+   "IT": 75,
+   "Percentage": 73.17
+ },
+ {
+   "Student Name": "Robert",
+   "Maths": 48,
+   "Science": 89,
+   "English": 72,
+   "SST": 34,
+   "Hindi": 96,
+   "IT": 55,
+   "Percentage": 65.67
+ },
+ {
+   "Student Name": "Elizabeth",
+   "Maths": 96,
+   "Science": 89,
+   "English": 37,
+   "SST": 99,
+   "Hindi": 70,
+   "IT": 40,
+   "Percentage": 71.83
+ },
+ {
+   "Student Name": "Jennifer",
+   "Maths": 57,
+   "Science": 87,
+   "English": 82,
+   "SST": 96,
+   "Hindi": 79,
+   "IT": 44,
+   "Percentage": 74.17
+ },
+ {
+   "Student Name": "Charles",
+   "Maths": 84,
+   "Science": 65,
+   "English": 98,
+   "SST": 52,
+   "Hindi": 44,
+   "IT": 67,
+   "Percentage": 68.33
+ },
+ {
+   "Student Name": "Lisa",
+   "Maths": 46,
+   "Science": 96,
+   "English": 89,
+   "SST": 39,
+   "Hindi": 82,
+   "IT": 53,
+   "Percentage": 67.5
+ },
+ {
+   "Student Name": "Daniel",
+   "Maths": 81,
+   "Science": 39,
+   "English": 55,
+   "SST": 48,
+   "Hindi": 83,
+   "IT": 51,
+   "Percentage": 59.5
+ },
+ {
+   "Student Name": "Donald",
+   "Maths": 57,
+   "Science": 76,
+   "English": 58,
+   "SST": 36,
+   "Hindi": 69,
+   "IT": 40,
+   "Percentage": 56
+ },
+ {
+   "Student Name": "George",
+   "Maths": 52,
+   "Science": 46,
+   "English": 81,
+   "SST": 57,
+   "Hindi": 66,
+   "IT": 63,
+   "Percentage": 60.83
+ },
+ {
+   "Student Name": "Donna",
+   "Maths": 62,
+   "Science": 78,
+   "English": 97,
+   "SST": 49,
+   "Hindi": 52,
+   "IT": 70,
+   "Percentage": 68
+ },
+ {
+   "Student Name": "Carol",
+   "Maths": 97,
+   "Science": 58,
+   "English": 55,
+   "SST": 34,
+   "Hindi": 63,
+   "IT": 41,
+   "Percentage": 58
+ },
+ {
+   "Student Name": "Ruth",
+   "Maths": 43,
+   "Science": 60,
+   "English": 50,
+   "SST": 98,
+   "Hindi": 40,
+   "IT": 95,
+   "Percentage": 64.33
+ },
+ {
+   "Student Name": "Jason",
+   "Maths": 40,
+   "Science": 91,
+   "English": 87,
+   "SST": 98,
+   "Hindi": 80,
+   "IT": 95,
+   "Percentage": 81.83
+ },
+ {
+   "Student Name": "Matthew",
+   "Maths": 58,
+   "Science": 42,
+   "English": 89,
+   "SST": 86,
+   "Hindi": 37,
+   "IT": 86,
+   "Percentage": 66.33
+ },
+ {
+   "Student Name": "Jessica",
+   "Maths": 99,
+   "Science": 88,
+   "English": 38,
+   "SST": 89,
+   "Hindi": 51,
+   "IT": 86,
+   "Percentage": 75.17
+ },
+ {
+   "Student Name": "Gary",
+   "Maths": 42,
+   "Science": 36,
+   "English": 62,
+   "SST": 37,
+   "Hindi": 39,
+   "IT": 88,
+   "Percentage": 50.67
+ },
+ {
+   "Student Name": "Jose",
+   "Maths": 52,
+   "Science": 49,
+   "English": 76,
+   "SST": 36,
+   "Hindi": 54,
+   "IT": 49,
+   "Percentage": 52.67
+ },
+ {
+   "Student Name": "Brenda",
+   "Maths": 90,
+   "Science": 83,
+   "English": 49,
+   "SST": 70,
+   "Hindi": 52,
+   "IT": 70,
+   "Percentage": 69
+ },
+ {
+   "Student Name": "Frank",
+   "Maths": 92,
+   "Science": 37,
+   "English": 80,
+   "SST": 45,
+   "Hindi": 62,
+   "IT": 85,
+   "Percentage": 66.83
+ },
+ {
+   "Student Name": "Kathleen",
+   "Maths": 67,
+   "Science": 83,
+   "English": 57,
+   "SST": 95,
+   "Hindi": 61,
+   "IT": 56,
+   "Percentage": 69.83
+ },
+ {
+   "Student Name": "Joshua",
+   "Maths": 66,
+   "Science": 65,
+   "English": 95,
+   "SST": 47,
+   "Hindi": 63,
+   "IT": 49,
+   "Percentage": 64.17
+ },
+ {
+   "Student Name": "Debra",
+   "Maths": 47,
+   "Science": 35,
+   "English": 37,
+   "SST": 40,
+   "Hindi": 70,
+   "IT": 65,
+   "Percentage": 49
+ },
+ {
+   "Student Name": "Jerry",
+   "Maths": 88,
+   "Science": 53,
+   "English": 81,
+   "SST": 40,
+   "Hindi": 92,
+   "IT": 54,
+   "Percentage": 68
+ },
+ {
+   "Student Name": "Williams",
+   "Maths": 49,
+   "Science": 35,
+   "English": 37,
+   "SST": 73,
+   "Hindi": 42,
+   "IT": 68,
+   "Percentage": 37
+ },
+ {
+   "Student Name": "Brown",
+   "Maths": 34,
+   "Science": 73,
+   "English": 62,
+   "SST": 52,
+   "Hindi": 54,
+   "IT": 67,
+   "Percentage": 80
+ },
+ {
+   "Student Name": "Wilson",
+   "Maths": 59,
+   "Science": 80,
+   "English": 65,
+   "SST": 70,
+   "Hindi": 96,
+   "IT": 76,
+   "Percentage": 58
+ },
+ {
+   "Student Name": "Moore",
+   "Maths": 52,
+   "Science": 62,
+   "English": 82,
+   "SST": 96,
+   "Hindi": 40,
+   "IT": 76,
+   "Percentage": 82
+ },
+ {
+   "Student Name": "Price",
+   "Maths": 88,
+   "Science": 40,
+   "English": 51,
+   "SST": 61,
+   "Hindi": 96,
+   "IT": 85,
+   "Percentage": 63
+ },
+ {
+   "Student Name": "Wood",
+   "Maths": 69,
+   "Science": 52,
+   "English": 63,
+   "SST": 42,
+   "Hindi": 56,
+   "IT": 48,
+   "Percentage": 89
+ },
+ {
+   "Student Name": "Coleman",
+   "Maths": 36,
+   "Science": 36,
+   "English": 77,
+   "SST": 84,
+   "Hindi": 68,
+   "IT": 80,
+   "Percentage": 89
+ },
+ {
+   "Student Name": "Perry",
+   "Maths": 84,
+   "Science": 98,
+   "English": 97,
+   "SST": 41,
+   "Hindi": 88,
+   "IT": 38,
+   "Percentage": 88
+ },
+ {
+   "Student Name": "Steele",
+   "Maths": 61,
+   "Science": 87,
+   "English": 97,
+   "SST": 50,
+   "Hindi": 54,
+   "IT": 96,
+   "Percentage": 43
+ },
+ {
+   "Student Name": "Schultz",
+   "Maths": 78,
+   "Science": 65,
+   "English": 43,
+   "SST": 49,
+   "Hindi": 58,
+   "IT": 75,
+   "Percentage": 34
+ },
+ {
+   "Student Name": "Munoz",
+   "Maths": 58,
+   "Science": 72,
+   "English": 73,
+   "SST": 79,
+   "Hindi": 88,
+   "IT": 80,
+   "Percentage": 55
+ },
+ {
+   "Student Name": "Chandler",
+   "Maths": 70,
+   "Science": 51,
+   "English": 74,
+   "SST": 69,
+   "Hindi": 76,
+   "IT": 94,
+   "Percentage": 66
+ },
+ {
+   "Student Name": "Small",
+   "Maths": 89,
+   "Science": 87,
+   "English": 97,
+   "SST": 81,
+   "Hindi": 46,
+   "IT": 91,
+   "Percentage": 92
+ },
+ {
+   "Student Name": "Hensley",
+   "Maths": 72,
+   "Science": 51,
+   "English": 88,
+   "SST": 63,
+   "Hindi": 57,
+   "IT": 93,
+   "Percentage": 52
+ },
+ {
+   "Student Name": "Grimes",
+   "Maths": 47,
+   "Science": 56,
+   "English": 90,
+   "SST": 76,
+   "Hindi": 81,
+   "IT": 43,
+   "Percentage": 36
+ },
+ {
+   "Student Name": "Baxter",
+   "Maths": 62,
+   "Science": 75,
+   "English": 45,
+   "SST": 82,
+   "Hindi": 71,
+   "IT": 81,
+   "Percentage": 75
+ },
+ {
+   "Student Name": "Morin",
+   "Maths": 51,
+   "Science": 48,
+   "English": 59,
+   "SST": 66,
+   "Hindi": 84,
+   "IT": 90,
+   "Percentage": 37
+ },
+ {
+   "Student Name": "Tillman",
+   "Maths": 87,
+   "Science": 98,
+   "English": 49,
+   "SST": 69,
+   "Hindi": 49,
+   "IT": 50,
+   "Percentage": 35
+ },
+ {
+   "Student Name": "Huber",
+   "Maths": 38,
+   "Science": 65,
+   "English": 80,
+   "SST": 44,
+   "Hindi": 84,
+   "IT": 58,
+   "Percentage": 96
+ },
+ {
+   "Student Name": "Boyle",
+   "Maths": 76,
+   "Science": 95,
+   "English": 82,
+   "SST": 54,
+   "Hindi": 80,
+   "IT": 95,
+   "Percentage": 81
+ },
+ {
+   "Student Name": "Buckner",
+   "Maths": 98,
+   "Science": 51,
+   "English": 99,
+   "SST": 53,
+   "Hindi": 99,
+   "IT": 53,
+   "Percentage": 62
+ },
+ {
+   "Student Name": "Knowles",
+   "Maths": 78,
+   "Science": 64,
+   "English": 59,
+   "SST": 79,
+   "Hindi": 44,
+   "IT": 93,
+   "Percentage": 96
+ },
+ {
+   "Student Name": "Velazquez",
+   "Maths": 37,
+   "Science": 96,
+   "English": 49,
+   "SST": 67,
+   "Hindi": 41,
+   "IT": 72,
+   "Percentage": 94
+ },
+ {
+   "Student Name": "Vang",
+   "Maths": 60,
+   "Science": 34,
+   "English": 50,
+   "SST": 38,
+   "Hindi": 49,
+   "IT": 35,
+   "Percentage": 67
+ }
+]

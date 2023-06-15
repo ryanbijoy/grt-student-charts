@@ -1,0 +1,20 @@
+<html>
+<head>
+    <title>Matplotlib with PyScript</title>
+    <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css">
+    <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
+    <py-env>
+        - matplotlib
+        - pandas
+        - numpy
+        - paths:
+            - student-data.json
+    </py-env>
+</head>
+
+<body>
+    <strong>Matplotlib Chart Output:</strong>
+    <div id="plot"></div>
+    <py-script output="plot" src="app.py"></py-script>
+</body>
+</html>
